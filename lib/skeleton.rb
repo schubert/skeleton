@@ -1,0 +1,3 @@
+module Skeleton
+  # Your code goes here...
+end

@@ -1,0 +1,19 @@
+= Skeleton
+
+* http://github.com/casecommons/skeleton/
+
+== DESCRIPTION
+
+TODO
+
+== INSTALL
+
+TODO
+
+== REQUIREMENTS
+
+TODO
+
+== LICENSE
+
+MIT
